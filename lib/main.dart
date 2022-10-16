@@ -67,7 +67,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Muhammad Ghani',
+      title: 'Daffa Aqila Rahamatullah',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
